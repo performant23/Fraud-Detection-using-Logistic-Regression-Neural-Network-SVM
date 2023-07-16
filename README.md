@@ -2,7 +2,7 @@
 
 This project aims to develop a fraud detection system using machine learning techniques. The goal is to identify fraudulent transactions based on various features and improve the accuracy of fraud detection while minimizing false positives.
 
-# Dataset Credit - International School of AI & Data Science (INSAID)
+Dataset Credit - International School of AI & Data Science (INSAID)
 
 
 ## Table of Contents
